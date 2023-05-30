@@ -5,3 +5,12 @@ Bangalore
 Belgavi
 Mangalore
 Keladi
+
+--Maharashtra
+Jalgaon
+Nashik
+Thane
+Sindhurg
+Kolhapur
+Mumbai
+Pune
