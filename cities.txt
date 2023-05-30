@@ -6,3 +6,18 @@ Belgavi
 Mangalore
 Keladi
 
+--Maharashtra
+Jalgaon
+Nashik
+Thane
+Sindhurg
+Kolhapur
+Mumbai
+Pune
+
+--Andhra Pradesh
+Vishakapatnam
+Kakinada
+Anantpura
+Tirupati
+Pavgada
