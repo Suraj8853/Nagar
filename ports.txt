@@ -15,3 +15,14 @@ Chaul
 Vizag
 Machilipatnam
 
+--Odisha
+1.Puri .
+2.Gopalpur.
+3.ROurkela
+
+--Tamil Nadu
+1.Kanyakumari
+2.Tuticorin
+3.Madras.
+
+
