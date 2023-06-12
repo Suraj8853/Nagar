@@ -25,4 +25,11 @@ Machilipatnam
 2.Tuticorin
 3.Madras.
 
+--Gujarat
+1.Bhavnagar
+2.Mandvi
+3.Veraval
+4.Dholera
+5.Kandla
+
 
